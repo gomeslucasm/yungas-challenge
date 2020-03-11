@@ -10,11 +10,11 @@ Sinta-se a vontade para escolher suas ferramentas e nos surpreender com sua abor
 
 Apenas tenha certeza de que seu código foi testado e está pronto para rodar!
 
-# O desafio
+## O desafio
 
 Seu desafio será criar uma API que listará pessoas de uma base de dados.
 
-Neste repositório você vai encontrar um arquivo **people.json**. Você deve usar este arquivo como sua base de dados importando-o para um banco de dados, para uma variável, tanto faz. O importante é que isto ocorra durante a inicialização do seu projeto.
+Neste repositório você vai encontrar o arquivo **people.json**. Você deve usar este arquivo como sua base de dados importando-o para um banco de dados, para uma variável, tanto faz. O importante é que isto ocorra durante a inicialização do seu projeto.
 
 Exemplo do JSON:
 ```
@@ -36,17 +36,19 @@ A API deve sempre responder com paginação e todas as saídas da API devem ser 
 }
 ```
 
-Ou seja, todas os endpoints de sua API devem aceitar os parâmetros **page** e **page_size** e formatar a saída de acordo, informando que pagina esta sendo exibida, qual é o número máximo de itens por página e o número total na base de dados.
+Ou seja, todps os endpoints de sua API devem aceitar os parâmetros **page** e **page_size** e formatar a saída de acordo, informando que página esta sendo exibida, qual é o número máximo de itens por página e o número total na base de dados.
 
----
+
 ### Requisito #2
-Você notará que todos os usuários de sua base de dados estão localizados em estados brasileiros e os usuários de sua API precisam listá-los por região. Faça com que sua API possua uma rota onde o usuário possa passar a região e receber a lista filtrada de usuários daquela região: Lembrando que as regiões disponíveis serão:
+
+Você notará que todos os usuários de sua base de dados estão localizados em estados brasileiros e os usuários de sua API precisam listá-los por região. Faça com que sua API possua rotas onde o usuário possa passar a região e receber a lista filtrada de usuários daquela região: Lembrando que as regiões disponíveis serão:
 - Norte
 - Nordeste
 - Centro-Oeste
 - Sudeste
 - Sul
----
+
+
 ### Requisito #3
 
 Você sabe que sua API fará muito sucesso em breve e você vai atingir fama internacional. Pensando nisto, você já está adaptando a saída da API para algo mais genérico para o mercado internacional. Para melhorar a saída da API você precisa:
@@ -112,7 +114,7 @@ Fique a vontade para desenvolver seu frontend usando a tecnologia que quiser, ma
 
 Crie seu repositório no Github e o mantenha como **privado**!!
 
-Dê permissão de acesso para [@mtrojahn](https://github.com/mtrojahn)  ao seu repositório.
+Dê permissão de acesso para [@mtrojahn](https://github.com/mtrojahn) ao seu repositório.
 
 É obrigatório ter um **README** com todas as instruções sobre o seu desafio.
 
