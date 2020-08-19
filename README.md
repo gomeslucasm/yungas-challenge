@@ -6,11 +6,15 @@ A forma como você resolverá este desafio é importante para entendermos seus p
 
 No final, lhe daremos retorno sobre os pontos que achamos positivos e negativos.
 
-Sinta-se a vontade para escolher suas ferramentas e nos surpreender com sua abordagem. Ficaremos mais impressionados ainda você usar Flask como um pro, pois faz parte do nosso stack atual.
+A Yungas usa um stack de transição e híbrido com Python/Jinja/JQuery e módulos mais atuais onde o frontend é Svelte com chamadas REST. Não tem problema não estar familiarizado com Svelte se você for frontend, se você teve experiência com Vue ou React, Svelte será moleza pra você.
+
+Para este desafio, utiliza a tecnologia que você estiver mais familiarizado.
 
 Apenas tenha certeza de que seu código foi testado e está pronto para rodar!
 
-## O desafio
+---
+
+# DEVs BACKEND
 
 Seu desafio será criar uma API que listará pessoas de uma base de dados.
 
@@ -36,7 +40,7 @@ A API deve sempre responder com paginação e todas as saídas da API devem ser 
 }
 ```
 
-Ou seja, todps os endpoints de sua API devem aceitar os parâmetros **page** e **page_size** e formatar a saída de acordo, informando que página esta sendo exibida, qual é o número máximo de itens por página e o número total na base de dados.
+Ou seja, todos os endpoints de sua API devem aceitar os parâmetros **page** e **page_size** e formatar a saída de acordo, informando que página esta sendo exibida, qual é o número máximo de itens por página e o número total na base de dados.
 
 
 ### Requisito #2
@@ -106,11 +110,32 @@ Exemplo de OUTPUT:
 
 ---
 
-## Caso esteja pensando em full-stack
+# DEVs FRONTEND
+Seu desafio é exibir os dados de uma API que listará pessoas.
 
-Fique a vontade para desenvolver seu frontend usando a tecnologia que quiser, mas lembre-se de utilizar todos os recursos de filtragem de sua API. Ou seja, seria interessante se sua tela inicial exibisse todos as pessoas devidamente paginadas e que clicando em uma pessoa os detalhes dela sejam exibidos. Não esqueça da busca por região ou qualquer outro filtro que ache necessário;
+Neste repositório, você encontrará um arquivo chamado **people.json**. Ele será sua base de dados. Faça um mock de uma API e receba os dados através dela. Com os dados, você deve atender os requisitos abaixo.
 
-## Como entregar
+### Requisito #1
+
+Como você está recebendo os dados de uma API, você não tem muito controle sob eles. Os dados precisarão de adaptação...
+
+Você notará que todos os usuários de sua base de dados estão localizados em estados brasileiros mas na sua interface, precisamos listá-los por região. Faça com que sua interface consiga listar os usuários das regiões abaixo.
+- Norte
+- Nordeste
+- Centro-Oeste
+- Sudeste
+- Sul
+
+### Requisito #2
+
+A sua interface precisa lista no máximo 20 usuários por vez, possuir paginação e identificar quando é necessário exibir os controles de paginação.
+
+### Requisito #3
+
+Sua interface deve ser responsiva.
+
+
+# Como entregar
 
 Crie seu repositório no Github e o mantenha como **privado**!!
 
