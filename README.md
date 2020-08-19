@@ -126,7 +126,7 @@ Você notará que todos os usuários de sua base de dados estão localizados em 
 
 ### Requisito #2
 
-A sua interface precisa lista no máximo 20 usuários por vez, possuir paginação e identificar quando é necessário exibir os controles de paginação.
+A sua interface precisa listar no máximo 20 usuários por vez, possuir paginação e identificar quando é necessário exibir os controles de paginação.
 
 ### Requisito #3
 
