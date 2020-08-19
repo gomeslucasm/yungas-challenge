@@ -117,8 +117,6 @@ Neste repositório, você encontrará um arquivo chamado **people.json**. Ele se
 
 ### Requisito #1
 
-Como você está recebendo os dados de uma API, você não tem muito controle sob eles. Os dados precisarão de adaptação...
-
 Você notará que todos os usuários de sua base de dados estão localizados em estados brasileiros mas na sua interface, precisamos listá-los por região. Faça com que sua interface consiga listar os usuários das regiões abaixo.
 - Norte
 - Nordeste
