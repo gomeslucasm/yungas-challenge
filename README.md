@@ -8,9 +8,9 @@ No final, lhe daremos retorno sobre os pontos que achamos positivos e negativos.
 
 A Yungas usa um stack de transição e híbrido com Python/Jinja/JQuery e módulos mais atuais onde o frontend é Svelte com chamadas REST. Não tem problema não estar familiarizado com Svelte se você for frontend, se você teve experiência com Vue ou React, Svelte será moleza pra você.
 
-Para este desafio, utiliza a tecnologia que você estiver mais familiarizado.
+Para este desafio, utilize a tecnologia que você estiver mais familiarizado.
 
-Apenas tenha certeza de que seu código foi testado e está pronto para rodar!
+**Apenas tenha certeza de que seu código foi testado e está pronto para rodar!**
 
 ---
 
@@ -18,7 +18,7 @@ Apenas tenha certeza de que seu código foi testado e está pronto para rodar!
 
 Seu desafio será criar uma API que listará pessoas de uma base de dados.
 
-Neste repositório você vai encontrar o arquivo **people.json**. Você deve usar este arquivo como sua base de dados importando-o para um banco de dados, para uma variável, tanto faz. O importante é que isto ocorra durante a inicialização do seu projeto.
+Neste repositório você encontrará o arquivo **people.json**. Você deve usar este arquivo como sua base de dados importando-o para um banco de dados, para uma variável, tanto faz. O importante é que isto ocorra durante a inicialização do seu projeto.
 
 Exemplo do JSON:
 ```
@@ -111,7 +111,7 @@ Exemplo de OUTPUT:
 ---
 
 # DEVs FRONTEND
-Seu desafio é exibir os dados de uma API que listará pessoas.
+Seu desafio é exibir os dados de uma API (mockada) que listará pessoas.
 
 Neste repositório, você encontrará um arquivo chamado **people.json**. Ele será sua base de dados. Faça um mock de uma API e receba os dados através dela. Com os dados, você deve atender os requisitos abaixo.
 
