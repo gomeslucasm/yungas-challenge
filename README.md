@@ -122,7 +122,7 @@ Você deve criar uma interface que liste todos os registros. Esta interface deve
 
 ### Requisito #2
 
-Você notará que todos os usuários de sua base de dados estão localizados em estados brasileiros mas na sua interface, precisamos listá-los por região. Crie também um filtro com um <SELECT> onde se possa selecionar as regiões abaixo e filtrar os registros listando apenas estados pertencentes aquela regiao
+Você notará que todos os usuários de sua base de dados estão localizados em estados brasileiros mas na sua interface, precisamos listá-los por região. Crie também um filtro com um SELECT onde se possa selecionar as regiões abaixo e filtrar os registros listando apenas estados pertencentes aquela regiao
 - Norte
 - Nordeste
 - Centro-Oeste
