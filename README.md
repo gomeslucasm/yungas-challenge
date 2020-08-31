@@ -139,7 +139,7 @@ Sua interface deve ser responsiva.
 
 ### Requisito #5 
 
-Seus filtros devem ser INCREMENTAIS, ou seja, se você filtrar por "Joao" e região "Sul", somente os "Joao" da região "Sul" devem ser exibido. Se outro filtro for adicionado a busca, ele também precisa incrementar a pesquisa.
+Seus filtros devem ser INCREMENTAIS, ou seja, se você filtrar por "Joao" e região "Sul", somente os "Joao" da região "Sul" devem ser exibidos. Se outro filtro for adicionado a busca, ele também precisa incrementar a pesquisa.
 
 
 # Como entregar
