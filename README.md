@@ -145,8 +145,7 @@ Seus filtros devem ser INCREMENTAIS, ou seja, se você filtrar por "Joao" e regi
 
 ### Requisito #6
 
-Ao clicar em uma pessoa da listagem, esta pessoa deve ser exibida em um modal com mais detalhes. Pontos aqui se você for mais criativo e não usar um modal, apresentando os dados de outra forma algo e que tenha uma boa UX.
-
+Ao clicar em uma pessoa da listagem, esta pessoa deve ser exibida em um modal com mais detalhes. Pontos aqui se você for mais criativo e não usar um modal, apresentando os dados de outra forma e que tenha uma boa UX.
 
 # Como entregar
 
