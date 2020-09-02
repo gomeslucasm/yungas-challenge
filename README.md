@@ -116,9 +116,11 @@ Seu desafio é exibir os dados de uma API (mockada) que listará pessoas.
 Neste repositório, você encontrará um arquivo chamado **people.json**. Ele será sua base de dados. Faça um mock de uma API e receba os dados através dela. Com os dados, você deve atender os requisitos abaixo.
 
 ### Requisito #1
+
 Você deve criar uma interface que liste todos os registros. Esta interface deve conter formas de filtragem e organização dos dados como:
 - filtros por partes dos dados, como nome, endereco, cidade, etc.
-- organizacao dos registros por ordem alfabetica ou inversa
+- organizacao dos registros por ordem alfabetica ou inversa.
+- o estado default da tela é lista completa, sem filtragens.
 
 ### Requisito #2
 
@@ -140,6 +142,10 @@ Sua interface deve ser responsiva.
 ### Requisito #5 
 
 Seus filtros devem ser INCREMENTAIS, ou seja, se você filtrar por "Joao" e região "Sul", somente os "Joao" da região "Sul" devem ser exibidos. Se outro filtro for adicionado a busca, ele também precisa incrementar a pesquisa.
+
+### Requisito #6
+
+Ao clicar em uma pessoa da listagem, esta pessoa deve ser exibida em um modal com mais detalhes. Pontos aqui se você for mais criativo e não usar um modal, apresentando os dados de outra forma algo e que tenha uma boa UX.
 
 
 # Como entregar
