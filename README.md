@@ -10,7 +10,7 @@ A Yungas usa um stack de transição e híbrido com Python/Jinja/JQuery e módul
 
 Para este desafio, utilize a tecnologia que você estiver mais familiarizado.
 
-**Apenas tenha certeza de que seu código foi testado e está pronto para rodar!**
+**Apenas tenha certeza de que seu código foi testado (inclusive testes automatizados vão lhe dar pontos extras) e está pronto para rodar!**
 
 ---
 
